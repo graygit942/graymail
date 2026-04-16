@@ -4,4 +4,6 @@ title: Contact Information
 permalink: /contact
 ---
 
-Contact information test123
+Email: bradley@gray-mail.ca
+XMPP: Soon
+
