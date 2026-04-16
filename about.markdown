@@ -8,7 +8,7 @@ permalink: /contact
 Hash: SHA512
 
 Email: bradley@gray-mail.ca
-XMPP: Sonn
+XMPP: Soon
 -----BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCgAdFiEES1Z68tLpcDgJHvWk5vj3sGNpOCQFAmnhNLEACgkQ5vj3sGNp
