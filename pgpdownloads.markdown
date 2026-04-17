@@ -1,5 +1,5 @@
 ---
-layout: downloads
+layout: page
 permalink: /PGP/Downloads
 title: Download Keys
 ---
