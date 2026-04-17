@@ -3,5 +3,6 @@ layout: downloads
 permalink: /PGP/Downloads
 title: Download
 ---
-
-d
+Downloads
+<a href="/_downloads/bradley@gray-mail.asc" download>
+</a>
