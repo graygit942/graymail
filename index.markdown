@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to My Home Page
+Welcome to My Home Page, Website is still being built.
 
 {% assign date = '2026-04-16 14:54:00' %}
 
