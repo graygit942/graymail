@@ -5,6 +5,6 @@ title: Download Keys
 ---
 .asc Download files for my current pgp keys
 
-bradley@gray-mail.ca 
+'bradley@gray-mail.ca'
 
 <a href="/bradley@gray-mail.asc" download=Gray-Mail>Download .asc key to import.</a>
