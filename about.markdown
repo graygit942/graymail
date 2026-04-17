@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about
-title: About Section
+title: About
 ---
 
 Example page testing about section
