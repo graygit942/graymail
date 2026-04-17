@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Information
-permalink: /contact
+permalink: /info
 ---
 
 Email: bradley@gray-mail.ca
