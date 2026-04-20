@@ -11,7 +11,6 @@ layout: default
   {{ content }}
 
  {%- if site.posts.size > 0 -%}
-    {% include category.html %}
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
