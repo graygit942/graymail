@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Welcome to My Home Page, Website is still being built.
@@ -8,3 +8,6 @@ Welcome to My Home Page, Website is still being built.
 
 - Original date - {{ date }}
 - Creation date - {{ date | timeago }}
+
+
+{% include home.html %}
