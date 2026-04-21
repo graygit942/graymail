@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Categories
-permalink: /Categories
+layout: default
+title: Posts
 ---
 {% include categories.html %}
