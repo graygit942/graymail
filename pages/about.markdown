@@ -4,4 +4,4 @@ permalink: /about
 title: About
 ---
 
-Example page testing about section
+Small website to display my PGP keys and contact information
