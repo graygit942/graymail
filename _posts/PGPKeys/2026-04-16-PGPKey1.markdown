@@ -5,8 +5,7 @@ layout: post
 summary: Text PGP Key for 'bradley@gray-mail.ca
 title:  "Public PGP Key"
 date:   2026-04-16 11:52:56 -0300
-categories: PGP Keys
-tag: PGPKeys
+categories: [PGPKeys]
 ---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
