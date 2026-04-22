@@ -31,6 +31,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: ruby update
+        run: bundle insrall & git add Gemfile Gemfile.lock
       - name: Checkout
         uses: actions/checkout@v6.0.2
       - name: Setup Ruby
